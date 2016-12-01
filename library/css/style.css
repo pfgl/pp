@@ -1,6 +1,5 @@
-/*! Made with Bones: http://themble.com/bones :) */
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Main Stylesheet
@@ -463,7 +462,7 @@ span.amp {
   font-style: italic; }
 
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Variables
@@ -486,7 +485,7 @@ http://sachagreif.com/sass-color-variables/
 */
 /* BG COLOUR VARIABLES */
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Typography
@@ -549,7 +548,7 @@ p {
   hyphenate-lines: 3; }
 
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Sass Functions
@@ -594,7 +593,7 @@ both compile to:
 width: 65%;
 *********************/
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Mixins Stylesheet
@@ -673,7 +672,7 @@ BOX  SHADOW
 /* MIXIN -
 ========================================================================== */
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Layout Stylesheet
@@ -858,7 +857,7 @@ Stylesheet: Layout Stylesheet
   margin-right: 1%; }
 
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Embed Stylesheet
@@ -889,7 +888,7 @@ I mean, you can do whatever you want. The world is your oyster. Unless
 you hate oysters, then the world is your peanut butter & jelly sandwich.
 *********************/
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Alert Styles
@@ -920,7 +919,7 @@ you can just remove this stylesheet.
   background: #e6efc2; }
 
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Button Styles
@@ -978,7 +977,7 @@ and it will create a button dependant on those variables.
     background-color: #58748a; }
 
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Form Styles
@@ -1263,7 +1262,7 @@ select {
   background-position: 97.5% center; }
 
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Cookies
@@ -1310,7 +1309,7 @@ Stylesheet: Cookies
   top: 33%; }
 
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Maps
@@ -1470,7 +1469,7 @@ you set a great foundation, you won't need to add too many styles in
 the other stylesheets. Remember, keep it light: Speed is Important.
 *********************/
 /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Base Mobile Stylesheet
@@ -2334,7 +2333,7 @@ tweeners.
 *********************/
 @media only screen and (min-width: 481px) {
   /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: 481px and Up Stylesheet
@@ -2411,7 +2410,7 @@ you can add resource intensive styles.
 *********************/
 @media only screen and (min-width: 768px) {
   /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Tablet & Small Desktop Stylesheet
@@ -2565,7 +2564,7 @@ you can add resource intensive styles.
 *********************/
 @media only screen and (min-width: 1030px) {
   /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Desktop Stylsheet
@@ -2583,7 +2582,7 @@ This is for the larger monitors and possibly full screen viewers.
 *********************/
 @media only screen and (min-width: 1240px) {
   /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Super Large Monitor Stylesheet
@@ -2601,7 +2600,7 @@ query for retina AND a certain size if you want. Go Nuts.
 *********************/
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Retina Screens & Devices Stylesheet
@@ -2649,7 +2648,7 @@ be set to display none.
 *********************/
 @media print {
   /******************************************************************
-Site Name: Warnes Anderton
+Site Name: Platinum Portfolios
 Author: Jack Machin
 
 Stylesheet: Print Stylesheet
