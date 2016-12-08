@@ -1534,13 +1534,13 @@ style a page via class
 LINK STYLES
 *********************/
 a, a:visited {
-  color: #d31145;
+  color: #006c3e;
   text-decoration: none;
   /* on hover */
   /* on click */
   /* mobile tap color */ }
   a:hover, a:focus, a:visited:hover, a:visited:focus {
-    color: #a90e37;
+    color: #003e24;
     text-decoration: underline; }
   a:link, a:visited:link {
     /*
