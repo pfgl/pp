@@ -1597,7 +1597,8 @@ HEADER STYLES
 
 .logo {
   max-width: 100%;
-  height: auto; }
+  height: auto;
+  width: 125px; }
 
 .advice {
   display: inline-block;
