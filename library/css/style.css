@@ -1727,7 +1727,7 @@ POSTS & CONTENT STYLES
   font-weight: bold; }
 
 .page-title {
-  background: #d31145 url(/wp-content/themes/multiplex-new/library/images/titlebg.png) no-repeat left top;
+  background: #006c3e url(/wp-content/themes/multiplex-new/library/images/titlebg.png) no-repeat left top;
   color: #fff;
   font-size: 1.5em;
   text-transform: uppercase;
@@ -1761,11 +1761,11 @@ POSTS & CONTENT STYLES
   color: #fff; }
 
 .day {
-  background-color: #d73662;
+  background-color: #006c3e;
   padding: 0 1em; }
 
 .month {
-  background-color: #d01347;
+  background-color: #053c24;
   padding: 0 1em; }
 
 /* want to style individual post classes? Booya! */
