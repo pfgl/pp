@@ -43,11 +43,11 @@ NAVIGATION STYLES
 	border: 0;
     background-color: #006c3e ;
     background: rgba(211,17,69,1);
-    background: -moz-linear-gradient(top,#006c3e ,rgba(230,115,147,1) 50%,#006c3e  100%);
-    background: -webkit-linear-gradient(top,#006c3e ,rgba(230,115,147,1) 50%,#006c3e 100%);
-    background: -o-linear-gradient(top,#006c3e,rgba(230,115,147,1) 50%,#006c3e  100%);
-    background: -ms-linear-gradient(top,#006c3e ,rgba(230,115,147,1) 50%,#006c3e  100%);
-    background: linear-gradient(to bottom,#006c3e ,rgba(230,115,147,1) 50%,#006c3e 100%);
+    background: -moz-linear-gradient(top,#006c3e, #6ec59f 50%,#006c3e  100%);
+    background: -webkit-linear-gradient(top,#006c3e,#6ec59f 50%,#006c3e 100%);
+    background: -o-linear-gradient(top,#006c3e,#6ec59f 50%,#006c3e  100%);
+    background: -ms-linear-gradient(top,#006c3e, #6ec59f 50%,#006c3e  100%);
+    background: linear-gradient(to bottom,#006c3e,#6ec59f 50%,#006c3e 100%);
     -webkit-box-shadow: 0 0 5px #3c3c40;
     -moz-box-shadow: 0 0 5px #3c3c40;
     box-shadow: 0 0 5px #3c3c40;
