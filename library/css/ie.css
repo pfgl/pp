@@ -234,9 +234,9 @@ NAVIGATION STYLES
       padding: 20px 20px 20px 0;
       border-bottom-left-radius: 1em;
       border-bottom-right-radius: 1em;
-      border-bottom: 2px solid #d31145;
-      border-left: 2px solid #d31145;
-      border-right: 2px solid #d31145;
+      border-bottom: 2px solid #006c3e;
+      border-left: 2px solid #006c3e;
+      border-right: 2px solid #006c3e;
       /* highlight sub-menu current page */ }
       .nav li ul.sub-menu li,
       .nav li ul.children li {
